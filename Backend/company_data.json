@@ -1,0 +1,64 @@
+{
+    "company_name": "ShopEase",
+    "description": "ShopEase is an online shopping platform selling electronics, fashion and home products.",
+  
+    "contact": {
+      "email": "support@shopease.demo",
+      "phone": "+91 9876543210"
+    },
+  
+    "business_hours": "Monday to Saturday, 9 AM to 7 PM",
+  
+    "shipping": {
+      "delivery_time": "3-5 business days",
+      "free_shipping": "Orders above ₹999",
+      "tracking": "Tracking information is sent by email after dispatch."
+    },
+  
+    "returns": {
+      "return_period": "7 days",
+      "condition": "Products must be unused and in original packaging.",
+      "refund_time": "5-7 business days after the returned product is received."
+    },
+  
+    "payment_methods": [
+      "UPI",
+      "Credit Card",
+      "Debit Card",
+      "Net Banking",
+      "Cash on Delivery"
+    ],
+  
+    "products": [
+      {
+        "name": "Wireless Headphones",
+        "price": 1999,
+        "category": "Electronics"
+      },
+      {
+        "name": "Smart Watch",
+        "price": 2499,
+        "category": "Electronics"
+      },
+      {
+        "name": "Cotton T-Shirt",
+        "price": 799,
+        "category": "Fashion"
+      }
+    ],
+  
+    "faq": [
+      {
+        "question": "How can I track my order?",
+        "answer": "Tracking information is sent to your email after your order is dispatched."
+      },
+      {
+        "question": "Can I cancel my order?",
+        "answer": "Orders can be cancelled before they are dispatched."
+      },
+      {
+        "question": "Do you offer cash on delivery?",
+        "answer": "Yes, Cash on Delivery is available for eligible orders."
+      }
+    ]
+  }
